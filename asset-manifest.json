@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e3dbabeb.css",
+    "main.js": "./static/js/main.327f9b76.js",
+    "static/media/travel-website-project-places-.png": "./static/media/travel-website-project-places-.f5f7b689460d29fb5298.png",
+    "static/media/personal-photo.png": "./static/media/personal-photo.0e63e6ca6316e891b1b2.png",
+    "index.html": "./index.html",
+    "main.e3dbabeb.css.map": "./static/css/main.e3dbabeb.css.map",
+    "main.327f9b76.js.map": "./static/js/main.327f9b76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3dbabeb.css",
+    "static/js/main.327f9b76.js"
+  ]
+}
